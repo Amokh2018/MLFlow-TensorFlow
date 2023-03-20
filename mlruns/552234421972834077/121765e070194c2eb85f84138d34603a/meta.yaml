@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/alimokh/GitHub/MLFlow-TensorFlow/mlruns/552234421972834077/121765e070194c2eb85f84138d34603a/artifacts
+deleted_time: 1679318481578
+end_time: 1679318104866
+entry_point_name: ''
+experiment_id: '552234421972834077'
+lifecycle_stage: deleted
+run_id: 121765e070194c2eb85f84138d34603a
+run_name: useful-owl-127
+run_uuid: 121765e070194c2eb85f84138d34603a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679318102967
+status: 4
+tags: []
+user_id: alimokh

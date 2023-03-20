@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/alimokh/GitHub/MLFlow-TensorFlow/mlruns/552234421972834077/40548fb8455e417dbc518a28eea63e13/artifacts
+deleted_time: 1679318481578
+end_time: 1679318224644
+entry_point_name: ''
+experiment_id: '552234421972834077'
+lifecycle_stage: deleted
+run_id: 40548fb8455e417dbc518a28eea63e13
+run_name: silent-zebra-707
+run_uuid: 40548fb8455e417dbc518a28eea63e13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679318224399
+status: 4
+tags: []
+user_id: alimokh

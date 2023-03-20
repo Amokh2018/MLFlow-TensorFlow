@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/alimokh/GitHub/MLFlow-TensorFlow/mlruns/552234421972834077/e10c9214daac4813a620542973447db5/artifacts
+deleted_time: 1679321255872
+end_time: 1679318582403
+entry_point_name: ''
+experiment_id: '552234421972834077'
+lifecycle_stage: deleted
+run_id: e10c9214daac4813a620542973447db5
+run_name: rogue-whale-945
+run_uuid: e10c9214daac4813a620542973447db5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679318582168
+status: 4
+tags: []
+user_id: alimokh

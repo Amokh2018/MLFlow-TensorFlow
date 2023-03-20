@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/alimokh/GitHub/MLFlow-TensorFlow/mlruns/552234421972834077/127a9c1c8e5c4dd68c4c5ce330df2f92/artifacts
+deleted_time: 1679321255871
+end_time: 1679318500194
+entry_point_name: ''
+experiment_id: '552234421972834077'
+lifecycle_stage: deleted
+run_id: 127a9c1c8e5c4dd68c4c5ce330df2f92
+run_name: resilient-elk-433
+run_uuid: 127a9c1c8e5c4dd68c4c5ce330df2f92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679318499888
+status: 4
+tags: []
+user_id: alimokh

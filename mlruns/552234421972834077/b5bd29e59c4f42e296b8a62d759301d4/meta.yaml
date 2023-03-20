@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/alimokh/GitHub/MLFlow-TensorFlow/mlruns/552234421972834077/b5bd29e59c4f42e296b8a62d759301d4/artifacts
+end_time: 1679321074804
+entry_point_name: ''
+experiment_id: '552234421972834077'
+lifecycle_stage: active
+run_id: b5bd29e59c4f42e296b8a62d759301d4
+run_name: lyrical-bird-243
+run_uuid: b5bd29e59c4f42e296b8a62d759301d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679321032901
+status: 3
+tags: []
+user_id: alimokh

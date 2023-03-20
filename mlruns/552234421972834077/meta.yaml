@@ -1,0 +1,6 @@
+artifact_location: file:///Users/alimokh/GitHub/MLFlow-TensorFlow/mlruns/552234421972834077
+creation_time: 1679318102860
+experiment_id: '552234421972834077'
+last_update_time: 1679318102860
+lifecycle_stage: active
+name: TF_Keras_MNIST

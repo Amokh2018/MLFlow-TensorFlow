@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/alimokh/GitHub/MLFlow-TensorFlow/mlruns/552234421972834077/9044edd254214a72beb71ad5fa8e0530/artifacts
+deleted_time: 1679321255871
+end_time: 1679319671263
+entry_point_name: ''
+experiment_id: '552234421972834077'
+lifecycle_stage: deleted
+run_id: 9044edd254214a72beb71ad5fa8e0530
+run_name: vaunted-hound-53
+run_uuid: 9044edd254214a72beb71ad5fa8e0530
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679319670976
+status: 4
+tags: []
+user_id: alimokh
